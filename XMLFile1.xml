@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Employee name="Sidoriuk Olexander">
+		<weight>80</weight>
+		<cook>False</cook>
+		<experience>2</experience>
+	</Employee>
+</root>
